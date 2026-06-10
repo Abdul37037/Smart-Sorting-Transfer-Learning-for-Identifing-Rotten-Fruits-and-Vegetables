@@ -26,3 +26,4 @@ This kind of system:
 - Can be scaled and adapted for other agricultural classification tasks 
 
 https://1drv.ms/b/c/2a985ec2b4c57c41/EUd-nhWBAstAinIjaGttuNkBCkZJPCHWsU8vak6nPyuYUQ?e=TCvtTH
+https://drive.google.com/file/d/1ilnowxEmXwFAuwQJeWFamd0JdEMTS9cj/view?usp=sharing
